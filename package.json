@@ -1,0 +1,24 @@
+{
+  "name": "react-forge-cli",
+  "version": "1.0.0",
+  "description": "Supercharge your React development with instant component creation via CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonakShishangia/react-forge-cli.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "cli"
+  ],
+  "author": "Ronak Shishangia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonakShishangia/react-forge-cli/issues"
+  },
+  "homepage": "https://github.com/RonakShishangia/react-forge-cli#readme"
+}
